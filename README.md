@@ -21,7 +21,50 @@ Genetic algorithm solving the problem of optimization - minimization Booth funct
 
 ### Genetic operators
 
-##### Roulette wheel selection
+#### Mutation
+
+##### One-point mutation
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="20%" src="./img/m1.png">
+ </p>
+ 
+##### Two-points mutation
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="20%" src="./img/m2.png">
+ </p>
+ 
+##### Edge mutation
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="20%" src="./img/m3.png">
+ </p>
+ 
+##### Inversion
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="20%" src="./img/m4.png">
+ </p>
+ 
+#### Crossover
+
+##### One-point crossover
+
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="40%" src="./img/c1.png">
+ </p>
+
+##### Two-points crossover
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="40%" src="./img/c2.png">
+ </p>
+ 
+##### Three-point crossover
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="40%" src="./img/c3.png">
+ </p>
+ 
+##### Uniform crossover
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="40%" src="./img/c4.png">
+ </p>
 
 ##### Tournament selection
 
@@ -29,24 +72,9 @@ Genetic algorithm solving the problem of optimization - minimization Booth funct
 
 #### Selection
 
-
-#### Crossover
-
-##### One-point crossover
-
-##### Two-points crossover
-
-##### Three-point crossover
-
-##### Uniform crossover
+##### Roulette wheel selection
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="70%" src="./img/roulette.png">
+ </p>
 
 
-#### Mutation
-
-##### One-point mutation
-
-##### Two-points mutation
-
-##### Edge mutation
-
-##### Inversion
