@@ -23,56 +23,56 @@ Genetic algorithm solving the problem of optimization - minimization Booth funct
 
 #### Mutation
 
-##### One-point mutation
+##### o One-point mutation
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="20%" src="./img/m1.png">
  </p>
  
-##### Two-points mutation
+##### o Two-points mutation
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="20%" src="./img/m2.png">
  </p>
  
-##### Edge mutation
+##### o Edge mutation
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="20%" src="./img/m3.png">
  </p>
  
-##### Inversion
+##### o Inversion
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="20%" src="./img/m4.png">
  </p>
  
 #### Crossover
 
-##### One-point crossover
+##### o One-point crossover
 
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="40%" src="./img/c1.png">
  </p>
 
-##### Two-points crossover
+##### o Two-points crossover
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="40%" src="./img/c2.png">
  </p>
  
-##### Three-point crossover
+##### o Three-point crossover
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="40%" src="./img/c3.png">
  </p>
  
-##### Uniform crossover
+##### o Uniform crossover
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="40%" src="./img/c4.png">
  </p>
+ 
+ #### Selection
 
-##### Tournament selection
+##### o Tournament selection
 
-##### The best selection
+##### o The best selection
 
-#### Selection
-
-##### Roulette wheel selection
+##### o Roulette wheel selection
 <p align="center" style="margin-top: 150px;">
   <img style="display: inline-block;" width="70%" src="./img/roulette.png">
  </p>
